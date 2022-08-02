@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently learning to be a Software Engineer with Leon at 100Devs!
+
 <!--
 **JLB222/JLB222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
